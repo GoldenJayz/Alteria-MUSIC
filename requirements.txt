@@ -4,4 +4,3 @@ Pymoe
 pip
 youtube.dl
 discord.py[voice]
-opus.dll
