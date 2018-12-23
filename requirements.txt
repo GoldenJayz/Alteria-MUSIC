@@ -4,3 +4,4 @@ Pymoe
 pip
 youtube.dl
 discord.py[voice]
+ffmpeg
