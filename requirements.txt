@@ -2,6 +2,7 @@ discord
 asyncio
 Pymoe
 pip
-youtube.dl
+youtube-dl
+PyNaCl
 discord.py[voice]
 ffmpeg
