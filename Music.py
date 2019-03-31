@@ -1,5 +1,7 @@
 import asyncio
 import discord
+import youtube_dl
+from discord.txt import commands
 import os
 from discord.ext import commands
 if not discord.opus.is_loaded():
